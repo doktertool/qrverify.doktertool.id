@@ -1,0 +1,2 @@
+# qrverify.doktertool.id
+Web
